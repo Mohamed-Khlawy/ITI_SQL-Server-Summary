@@ -1,4 +1,4 @@
-# ITI - SQL Server Course
+# ITI - SQL Server Course Summary
 
 Here I will summarize the ITI - SQL Sever on the (Developer Channel) on YouTube on this link ==> (https://www.youtube.com/playlist?list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E).
 
